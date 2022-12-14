@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="103" height="28.033" viewBox="0 0 103 28.033">
+  <g id="Group_31" data-name="Group 31" transform="translate(-20 -35)">
+    <g id="Group_1" data-name="Group 1" transform="translate(20 35)">
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M9.426,18.85A9.429,9.429,0,0,1,5.617.8,9.357,9.357,0,0,1,9.21,0V9.64h9.64A9.418,9.418,0,0,1,9.426,18.85Z" transform="translate(0 9.183)" fill="#b1d1f5"/>
+      <path id="Subtraction_2" data-name="Subtraction 2" d="M9.426,18.85A9.429,9.429,0,0,1,5.617.8,9.357,9.357,0,0,1,9.21,0V9.64h9.64A9.418,9.418,0,0,1,9.426,18.85Z" transform="translate(27.988 18.85) rotate(180)" fill="#5186cb"/>
+    </g>
+    <text id="SquarePass" transform="translate(60 54)" fill="#111" font-size="11" font-family="PlusJakartaSans-Bold, Plus Jakarta Sans" font-weight="700"><tspan x="0" y="0">SquarePass</tspan></text>
+  </g>
+</svg>

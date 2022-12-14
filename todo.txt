@@ -1,0 +1,15 @@
+1. Buat shimmer loading di halaman home. +++
+2. Fix profile picture jadi profile picture pengguna asli bukan dummy. +++
+3. Buat banyak data platform berupa object yang ada di dalam array platforms lalu taruh di database `platforms` [{}, {}, {}]. +++
+4. Fungsikan fitur search di home untuk menampilkan hasil pencarian pengguna mengenai akun.
+5. Fungsikan fitur delete-account di endpointnya untuk menghapus akun user. +++
+6. Kumpulkan platform - platform dan buat design thumbnailnya dan iconnya. +++
+7. Set user's secret password to base64 +++
+8. Fungsikan fitur change password untuk merubah kata sandi pengguna. +++
+9. Fungsikan fitur delete account untuk menghapus akun squarepass pengguna. +++
+10. Refactor front ent code. +++
+11. Refactor back end code.
+12. When user delete on another device and the other device still have the account session. +
+13. Refactor Address Fetch. +++
+14. Separate Components. +++
+15. If unauthorized user access directly to an authorized endpoint redirect user to /login. +++

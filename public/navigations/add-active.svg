@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.939" height="28.939" viewBox="0 0 28.939 28.939">
+  <g id="Interface_Add_Square" data-name="Interface Add Square" transform="translate(-73.959)">
+    <g id="Group_23" data-name="Group 23" transform="translate(73.959 0)">
+      <rect id="Rectangle_79" data-name="Rectangle 79" width="28" height="28" rx="10" transform="translate(0.469 0.469)" fill="#111"/>
+      <g id="Group_22" data-name="Group 22" transform="translate(7.235 7.235)">
+        <path id="Line_1" data-name="Line 1" d="M-20.4-6.959a1.034,1.034,0,0,1-1.034-1.034V-20.4A1.034,1.034,0,0,1-20.4-21.429,1.034,1.034,0,0,1-19.362-20.4v12.4A1.034,1.034,0,0,1-20.4-6.959Z" transform="translate(27.63 21.429)" fill="#fff"/>
+        <path id="Line_2" data-name="Line 2" d="M-7.993-19.362H-20.4A1.034,1.034,0,0,1-21.429-20.4,1.034,1.034,0,0,1-20.4-21.429h12.4A1.034,1.034,0,0,1-6.959-20.4,1.034,1.034,0,0,1-7.993-19.362Z" transform="translate(21.429 27.63)" fill="#fff"/>
+      </g>
+      <path id="Rectangle_15" data-name="Rectangle 15" d="M-14.194-21.429H.275A7.243,7.243,0,0,1,7.51-14.194V.275A7.243,7.243,0,0,1,.275,7.51H-14.194A7.243,7.243,0,0,1-21.429.275V-14.194A7.243,7.243,0,0,1-14.194-21.429ZM.275,5.443A5.173,5.173,0,0,0,5.443.275V-14.194A5.173,5.173,0,0,0,.275-19.362H-14.194a5.173,5.173,0,0,0-5.168,5.168V.275a5.173,5.173,0,0,0,5.168,5.168Z" transform="translate(21.429 21.429)" fill="#111"/>
+    </g>
+  </g>
+</svg>

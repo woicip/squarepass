@@ -1,0 +1,30 @@
+.formContainer {
+    position: absolute;
+    left: 0;
+
+    width: max-content;
+    height: fit-content;
+
+    display: grid;
+    gap: 192px;
+    grid-template-columns: 1fr 1fr;
+
+    border: 1px solid rgb(59, 130, 246);
+    /* animation: moveToRight 2s ease-in-out; */
+    transition: 2s ease-in-out;
+}
+
+.formContainerMoving {
+    position: absolute;
+    right: 0;
+}
+
+@keyframes moveToRight {
+    from {
+        transform: translateX(0px);
+    }
+
+    to {
+        transform: translateX(-530px);
+    }
+}

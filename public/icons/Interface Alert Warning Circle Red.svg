@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <g id="Interface_Alert_Warning_Circle_Red" data-name="Interface Alert Warning Circle Red" transform="translate(89 0)">
+    <g id="Group_120" data-name="Group 120" transform="translate(-89 0)">
+      <path id="Ellipse_39" data-name="Ellipse 39" d="M-13.929-21.429a7.509,7.509,0,0,1,7.5,7.5,7.509,7.509,0,0,1-7.5,7.5,7.509,7.509,0,0,1-7.5-7.5A7.509,7.509,0,0,1-13.929-21.429Zm0,13.929A6.436,6.436,0,0,0-7.5-13.929a6.436,6.436,0,0,0-6.429-6.429,6.436,6.436,0,0,0-6.429,6.429A6.436,6.436,0,0,0-13.929-7.5Z" transform="translate(21.429 21.429)" fill="#ff4b4b"/>
+      <path id="Line_1" data-name="Line 1" d="M-20.893-17.143a.536.536,0,0,1-.536-.536v-3.214a.536.536,0,0,1,.536-.536.536.536,0,0,1,.536.536v3.214A.536.536,0,0,1-20.893-17.143Z" transform="translate(28.393 24.643)" fill="#ff4b4b"/>
+      <path id="Ellipse_40" data-name="Ellipse 40" d="M-20.357-21.429a1.073,1.073,0,0,1,1.071,1.071,1.073,1.073,0,0,1-1.071,1.071,1.073,1.073,0,0,1-1.071-1.071A1.073,1.073,0,0,1-20.357-21.429Z" transform="translate(27.857 30.536)" fill="#ff4b4b"/>
+    </g>
+  </g>
+</svg>

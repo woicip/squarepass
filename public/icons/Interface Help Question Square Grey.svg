@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40.858" height="40.858" viewBox="0 0 40.858 40.858">
+  <g id="Interface_Help_Question_Square_Grey" data-name="Interface Help Question Square Grey" transform="translate(0 0)">
+    <g id="Group_147" data-name="Group 147" transform="translate(0 0)">
+      <path id="Rectangle_63" data-name="Rectangle 63" d="M-17.051-21.429h32.1a4.383,4.383,0,0,1,4.378,4.378v32.1a4.383,4.383,0,0,1-4.378,4.378h-32.1a4.383,4.383,0,0,1-4.378-4.378v-32.1A4.383,4.383,0,0,1-17.051-21.429Zm32.1,37.939a1.461,1.461,0,0,0,1.459-1.459v-32.1a1.461,1.461,0,0,0-1.459-1.459h-32.1a1.461,1.461,0,0,0-1.459,1.459v32.1a1.461,1.461,0,0,0,1.459,1.459Z" transform="translate(21.429 21.429)" fill="#bebebe"/>
+      <path id="Path_19" data-name="Path 19" d="M220.122,164.592a1.459,1.459,0,0,1-1.459-1.459v-2.918a1.459,1.459,0,0,1,1.459-1.459,2.918,2.918,0,1,0-2.918-2.918,1.459,1.459,0,1,1-2.918,0,5.837,5.837,0,1,1,7.3,5.652v1.644A1.459,1.459,0,0,1,220.122,164.592Z" transform="translate(-199.694 -139.786)" fill="#bebebe"/>
+      <path id="Path_20" data-name="Path 20" d="M270.046,407.143a2.189,2.189,0,1,0,2.189,2.189A2.218,2.218,0,0,0,270.046,407.143Z" transform="translate(-249.617 -379.418)" fill="#bebebe"/>
+    </g>
+  </g>
+</svg>

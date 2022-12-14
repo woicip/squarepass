@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1195" height="720" viewBox="0 0 1195 720">
+  <defs>
+    <clipPath id="clip-Account_Type_-_1195_x_720px">
+      <rect width="1195" height="720"/>
+    </clipPath>
+  </defs>
+  <g id="Account_Type_-_1195_x_720px" data-name="Account Type - 1195 x 720px" clip-path="url(#clip-Account_Type_-_1195_x_720px)">
+    <rect width="1195" height="720" fill="#fff"/>
+    <rect id="Rectangle_33" data-name="Rectangle 33" width="1195" height="720" fill="rgba(25,119,243,0.1)"/>
+    <text id="Unknown_Platform" data-name="Unknown Platform" transform="translate(331 385)" fill="#5186cb" font-size="60" font-family="PlusJakartaSans-SemiBold, Plus Jakarta Sans" font-weight="600"><tspan x="0" y="0">Unknown Platform</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-Avatar_-_512_x_512px">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="Avatar_-_512_x_512px" data-name="Avatar - 512 x 512px" clip-path="url(#clip-Avatar_-_512_x_512px)">
+    <g id="Computer_Connection_Wifi" data-name="Computer Connection Wifi" transform="translate(102.559 130.032)">
+      <g id="Group_135" data-name="Group 135" transform="translate(0 0)">
+        <path id="Ellipse_39" data-name="Ellipse 39" d="M18.247-21.429A39.675,39.675,0,1,1-21.429,18.247,39.72,39.72,0,0,1,18.247-21.429Zm0,57.431A17.755,17.755,0,1,0,.491,18.247,17.775,17.775,0,0,0,18.247,36Z" transform="translate(135.194 194.014)" fill="#5186cb"/>
+        <path id="Path_18" data-name="Path 18" d="M183.673,321.264a10.96,10.96,0,0,1-7.85-18.608,87.956,87.956,0,0,1,62.651-26.434h0a87.951,87.951,0,0,1,62.651,26.434,10.96,10.96,0,1,1-15.7,15.295,65.541,65.541,0,0,0-93.9,0A10.928,10.928,0,0,1,183.673,321.264Z" transform="translate(-84.376 -162.488)" fill="#5186cb"/>
+        <path id="Path_19" data-name="Path 19" d="M294.312,230.471a10.924,10.924,0,0,1-7.772-3.233,132.617,132.617,0,0,0-188.093,0A10.96,10.96,0,1,1,82.9,211.784a154.536,154.536,0,0,1,219.182,0,10.96,10.96,0,0,1-7.772,18.687Z" transform="translate(-38.943 -108.74)" fill="#5186cb"/>
+        <path id="Path_20" data-name="Path 20" d="M295.921,134.814a10.925,10.925,0,0,1-7.752-3.212,190.485,190.485,0,0,0-269.457,0,10.96,10.96,0,0,1-15.5-15.5A211.022,211.022,0,0,1,153.44,53.855h0a211.009,211.009,0,0,1,150.232,62.251,10.96,10.96,0,0,1-7.752,18.708Z" transform="translate(0 -53.855)" fill="#5186cb"/>
+      </g>
+    </g>
+  </g>
+</svg>
